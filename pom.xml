@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.github.hexagonoframework</groupId>
         <artifactId>hexagono-parent</artifactId>
-        <version>0.0.2</version>
+        <version>0.0.3</version>
     </parent>
 
     <artifactId>hexagono-bom-test</artifactId>
